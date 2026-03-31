@@ -10,7 +10,11 @@
 
 ### About me
 
-Full-Stack Developer specializing in the MERN stack with hands-on industry experience at GIX Technologies. I build scalable web apps with real-world integrations — Razorpay payments, AWS cloud, Firebase real-time systems, and role-based admin panels. Focused on clean code and production-ready architecture.
+Full-Stack Developer specializing in the MERN stack with hands-on industry experience building and deploying scalable,
+production-grade web applications. At GIX Technologies, engineered secure RESTful APIs, integrated Razorpay payment gateways,
+and developed role-based admin panels serving real business operations. Proficient in cloud-native integrations including AWS S3,
+DynamoDB, and Firebase, with practical exposure to real-time systems, webhook handling, and end-to-end product development.
+Committed to writing clean, maintainable code and delivering high-quality solutions that align with business objectives.
 
 ---
 
