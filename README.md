@@ -1,40 +1,66 @@
-# Hi, I'm Mukul Sharnagat 👋
+<h1 align="center">Hi, I'm Mukul Sharnagat 👋</h1>
 
-**Full-Stack Developer (MERN Stack)** based in Bhopal, India.
-
-I build scalable, production-grade web applications with a focus on clean code and real-world integrations.
-
----
-
-## 🛠️ Tech Stack
-
-**Frontend:** React.js · Vite · Tailwind CSS · React Router  
-**Backend:** Node.js · Express.js · MongoDB · Mongoose · JWT Auth  
-**Cloud:** AWS S3 · DynamoDB · Firebase · Cloudinary · OneSignal  
-**Tools:** Git · GitHub · Razorpay API · REST API · CORS · Webhook
+<p align="center">
+  <b>Full-Stack Developer · MERN Stack · Bhopal, India</b><br>
+  <a href="mailto:sharnagatmukul@gmail.com">sharnagatmukul@gmail.com</a> ·
+  <a href="https://linkedin.com/in/mukul-sharnagat-513764261">LinkedIn</a> ·
+  <a href="https://github.com/Mukulsharnagat01">GitHub</a>
+</p>
 
 ---
 
-## 🚀 Key Projects
+### About me
 
-| Project | Tech |
-|---|---|
-| **Razorpay KYC – Sub-Merchant Onboarding** | MERN, Razorpay API, Webhook |
-| **Collagedunia – College & Exam Portal** | MERN, JWT, Cloudinary, RBAC |
-| **Exam-Manage – Online Exam System** | React, Node.js, AWS S3, DynamoDB |
-| **TEXTOPIA – Real-Time Chat App** | Firebase, Firestore, FCM, OneSignal |
+Full-Stack Developer specializing in the MERN stack with hands-on industry experience at GIX Technologies. I build scalable web apps with real-world integrations — Razorpay payments, AWS cloud, Firebase real-time systems, and role-based admin panels. Focused on clean code and production-ready architecture.
 
 ---
 
-## 💼 Experience
+### Tech stack
 
-**Web Development Intern** @ GIX Technologies *(Oct 2025 – Jan 2026)*  
-Built REST APIs, Razorpay payment gateway integration, and RBAC admin panels.
+**Frontend**
+`React.js` `Vite` `Tailwind CSS` `React Router` `React Hook Form`
+
+**Backend**
+`Node.js` `Express.js` `MongoDB` `Mongoose` `JWT Auth` `REST API`
+
+**Cloud & integrations**
+`AWS S3` `AWS DynamoDB` `Firebase` `Cloudinary` `OneSignal` `Razorpay API` `Webhook` `CORS`
+
+**Tools**
+`Git` `GitHub` `npm` `Multer`
 
 ---
 
-## 📫 Connect with me
+### Key projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mukul--sharnagat-blue?logo=linkedin)](https://linkedin.com/in/mukul-sharnagat-513764261)
-[![Email](https://img.shields.io/badge/Email-sharnagatmukul@gmail.com-red?logo=gmail)](mailto:sharnagatmukul@gmail.com)
-    
+| Project | Stack | Highlights |
+|---|---|---|
+| **Razorpay KYC system** | MERN, Razorpay, Webhook | Sub-merchant onboarding + KYC verification |
+| **Collagedunia portal** | MERN, JWT, Cloudinary, RBAC | College & exam management platform |
+| **Exam-Manage** | React, Node.js, AWS S3, DynamoDB | MCQ, coding & theory exam portal |
+| **TEXTOPIA** | Firebase, Firestore, FCM, OneSignal | Real-time chat + push notifications |
+
+---
+
+### Experience
+
+**Web Development Intern** — GIX Technologies *(Oct 2025 – Jan 2026)*
+- REST APIs with Node.js & Express.js
+- Razorpay payment gateway integration
+- RBAC admin panels & secure user management
+
+---
+
+### Certifications
+
+- 90-Day Web Dev Internship — GIX Technologies
+- React JS Course — Scaler Topics
+- Frontend Development Internship — CodeAlpha
+- AI-Powered Data Analytics — Geeks of Gurukul
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mukulsharnagat01&show_icons=true&theme=default&hide_border=true" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukulsharnagat01&layout=compact&theme=default&hide_border=true" height="150">
+</p>
