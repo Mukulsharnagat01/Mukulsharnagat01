@@ -1,4 +1,4 @@
-<h1 align="center">Hii, I'm Mukul Sharnagat 👋</h1>
+<h1 align="center">Hi, I'm Mukul Sharnagat 👋</h1>
 
 <p align="center">
   <b>Full-Stack Developer · MERN Stack · Bhopal, India</b><br>
