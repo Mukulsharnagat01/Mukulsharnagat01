@@ -3,7 +3,7 @@
 <p align="center">
   <b>Full-Stack Developer · MERN Stack · Bhopal, India</b><br>
   <a href="mailto:sharnagatmukul@gmail.com">sharnagatmukul@gmail.com</a> ·
-  <a href="https://linkedin.com/in/mukul-sharnagat-513764261">LinkedIn</a> ·
+  <a href="https://linkedin.com/in/mukul-sharnagat-513764261">LinkedIn</a> 
 </p>
 
 ---
